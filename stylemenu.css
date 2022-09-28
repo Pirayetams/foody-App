@@ -1,0 +1,231 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400;500;600;700&family=Mulish:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap");
+
+.head {
+  position: absolute;
+  width: 306px;
+  height: 180px;
+  left: 170px;
+  top: 1px;
+  margin-bottom: 25px;
+}
+
+.head h1 {
+  text-decoration: underline;
+  text-decoration: underline #f1d5bb;
+}
+
+.side {
+  box-sizing: border-box;
+  position: absolute;
+  width: 80px;
+  height: 730px;
+  left: 57px;
+  top: 20px;
+  background: #0c0b0b;
+  border-radius: 10px;
+}
+
+.side h1 {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+
+.side h2 {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+.side h3 {
+  text-align: center;
+  background-color: #f1d5bb;
+  height: 3.7em;
+  padding-top: 15px;
+  margin-top: 60px;
+}
+
+.side h4 {
+  text-align: center;
+  padding: 13px;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.side h5 {
+  text-align: center;
+  padding: 10px;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.side h6 {
+  text-align: center;
+  padding: 20px;
+}
+
+.first {
+  position: absolute;
+  padding: 10px;
+  margin: 150px;
+  margin-top: 45px;
+}
+
+.second {
+  position: relative;
+  left: 533px;
+  top: 55px;
+  margin-left: -100px;
+}
+
+.third {
+  position: relative;
+  left: 800px;
+  top: -226px;
+  margin-left: -100px;
+}
+
+.forth {
+  position: relative;
+  left: 1050px;
+  top: -506px;
+  margin-left: -80px;
+}
+
+.fifth {
+  position: absolute;
+  padding: 10px;
+  margin: 150px;
+  margin-top: -480px;
+}
+
+.sixth {
+  position: relative;
+  left: 533px;
+  margin-top: -471px;
+  margin-left: -100px;
+}
+
+.seventh {
+  position: absolute;
+  left: 800px;
+  margin-top: -280px;
+  margin-left: -90px;
+}
+
+.eight {
+  position: absolute;
+  left: 1070px;
+  margin-top: -277px;
+  margin-left: -90px;
+}
+
+.name {
+  position: relative;
+  padding: 10px;
+  margin: 150px;
+  margin-top: -320px;
+  font-size: 20px;
+  left: 35px;
+}
+
+.name1 {
+  position: relative;
+  padding: 15px;
+  margin: 500px;
+  margin-top: -200px;
+  font-size: 20px;
+  left: -11px;
+}
+
+.name2 {
+  position: relative;
+  padding: 15px;
+  margin: 500px;
+  margin-top: -550px;
+  font-size: 20px;
+  left: 250px;
+}
+
+.name3 {
+  position: relative;
+  padding: 15px;
+  margin: 500px;
+  margin-top: -550px;
+  font-size: 20px;
+  left: 500px;
+}
+
+.name4 {
+  position: relative;
+  padding: 10px;
+  margin: 150px;
+  margin-top: -230px;
+  font-size: 20px;
+  left: 35px;
+}
+
+.name5 {
+  position: relative;
+  padding: 15px;
+  margin: 500px;
+  margin-top: -200px;
+  font-size: 20px;
+  left: -11px;
+}
+
+.name6 {
+  position: relative;
+  padding: 15px;
+  margin: 500px;
+  margin-top: -550px;
+  font-size: 20px;
+  left: 250px;
+}
+
+.name7 {
+  position: relative;
+  padding: 15px;
+  margin: 500px;
+  margin-top: -550px;
+  font-size: 20px;
+  left: 530px;
+}
+
+.load {
+  position: relative;
+  /* left: 20em; */
+  top: -500px;
+  text-align: center;
+  color: #ffff;
+}
+
+button {
+  font-family: Mulish;
+  font-style: Light;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 25px;
+  line-height: 100%;
+  align-items: Left;
+  vertical-align: Top;
+  height: 54px;
+  width: 194px;
+  left: 676px;
+  top: 841px;
+  border-radius: 2px;
+  background: #000000;
+}
+
+.trade {
+  position: absolute;
+  width: 250px;
+  height: 19px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  margin-left: 224px;
+  margin-top: 40px;
+}
